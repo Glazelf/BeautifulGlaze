@@ -2,6 +2,7 @@ body {
     -webkit-transition: background 5s ease-in-out;
     transition: background 5s ease-in-out;
 
+    /* Replace image link with your own if desired, my image is simply a placeholder*/
     background: #fff url(https://i.imgur.com/x1JJ8Gz.jpg);
 
     /* Just in case adjusting the position is necessary (x% y%)*/
