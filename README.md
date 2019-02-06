@@ -10,4 +10,4 @@ If you can't get it working properly, try this guide;
 Most of the work was done by SamuiNe and his Crystalline Discord theme, I just edited it a bit for personal use.
 >https://github.com/SamuiNe/Crystalline-css
 
-# © 2019 Gideon van Steenbergen
+© 2019 Gideon van Steenbergen
