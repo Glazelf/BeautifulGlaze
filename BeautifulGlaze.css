@@ -2,10 +2,10 @@ body {
     -webkit-transition: background 5s ease-in-out;
     transition: background 5s ease-in-out;
 
-    background: #fff url(https://cs4.pikabu.ru/post_img/big/2016/05/22/9/1463928379142655059.jpg);
+    background: #fff url(https://i.imgur.com/x1JJ8Gz.jpg);
 
     /* Just in case adjusting the position is necessary (x% y%)*/
-    background-position: 50% 13%;
+    background-position: 50% 0;
 
     /* It is recommended to set the background-size width to match your monitor's or discord window's width plus 1px.
        If the background picture is blurry, please use a bigger sized background picture. */
