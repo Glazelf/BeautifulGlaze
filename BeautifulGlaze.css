@@ -1,6 +1,7 @@
 body {
     -webkit-transition: background 5s ease-in-out;
     transition: background 5s ease-in-out;
+    /* animation: moveBackground 3s infinite ease-in-out; */
 
     /* Replace image link with your own if desired, my image is simply a placeholder*/
     background: #fff url(https://cs4.pikabu.ru/post_img/big/2016/05/22/9/1463928379142655059.jpg);
