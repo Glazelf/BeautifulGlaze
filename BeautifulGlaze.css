@@ -15,7 +15,7 @@ body {
     background-repeat: repeat;
 }
 
-/* @keyframes moveBackground {
+@keyframes moveBackground {
       0% {
         transform: rotate(0deg);
       }
@@ -28,7 +28,7 @@ body {
       100% {
         transform: rotate(360deg);
       } 
-} */
+}
 
 .app, .connecting ,
 .appMount-3lHmkl{
