@@ -1,4 +1,5 @@
 # BeautifulGlaze
+BeautifulGlaze is a personal version of the Crystalline Discord theme, edited slightly for personal preferences in addition to some QOL changes. Not created with public use in mind but go ahead anyways.
 
 # Requirements:
 Having installed BeautifulDiscord
