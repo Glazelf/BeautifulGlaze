@@ -1,34 +1,34 @@
 body {
 	-webkit-transition: background 5s ease-in-out;
 	transition: background 5s ease-in-out;
-   /* animation: moveBackground 3s infinite ease-in-out;
+	/* animation: moveBackground 3s infinite ease-in-out;
 	*/
-   /* Replace image link with your own if desired, my image is simply a placeholder*/
+	/* Replace image link with your own if desired, my image is simply a placeholder*/
 	background: #fff url(https://i.imgur.com/EgNYkey.jpg);
-   /* Just in case adjusting the position is necessary (x% y%)*/
+	/* Just in case adjusting the position is necessary (x% y%)*/
 	background-position: 50% 0;
-   /* It is recommended to set the background-size width to match your monitor's or discord window's width plus 1px. If the background picture is blurry, please use a bigger sized background picture. */
-   /*background-size: 1921px auto;
-   */
+	/* It is recommended to set the background-size width to match your monitor's or discord window's width plus 1px. If the background picture is blurry, please use a bigger sized background picture. */
+	/*background-size: 1921px auto;
+	*/
 	background-size: cover;
 	background-repeat: repeat;
 }
 @keyframes moveBackground {
 	0% {
 		transform: rotate(0deg);
-   }
+	}
 	49% {
 		transform: rotate(359deg);
-   }
+	}
 	50% {
 		transform: rotate(0deg);
-   }
+	}
 	100% {
 		transform: rotate(360deg);
-   }
+	}
 }
 .app, .connecting , .appMount-3lHmkl{
-   /* You can adjust the background brightness by reducing the fourth value of below. 0.0 for no dark background, 1.0 for full darkness.*/
+	/* You can adjust the background brightness by reducing the fourth value of below. 0.0 for no dark background, 1.0 for full darkness.*/
 	background: rgba(0, 0, 0, 0.7);
 	-webkit-transition: background 0.5s ease-in-out;
 	transition: background 0.5s ease-in-out;
@@ -594,9 +594,9 @@ h3{
 }
 .theme-dark .chat .private-channel-call{
 	background-color: rgba(0, 0, 0, 0.5);
-   /* You can have your own image here if you want.*/
-   /*background-image: url('imageurlgoeshere') !important;
-   */
+	/* You can have your own image here if you want.*/
+	/*background-image: url('imageurlgoeshere') !important;
+	*/
 }
 .theme-dark .ui-quick-select-popout{
 	border-radius: 0;
@@ -1186,8 +1186,8 @@ span.discriminator{
 }
 .theme-dark .messages-wrapper .messages .divider.divider-red>span{
 	margin-left: calc(-100% + 242px);
-   /*margin-top: 19px;
-   */
+	/*margin-top: 19px;
+	*/
 	background-color: rgba(240, 71, 71, 0.35) !important;
 	color: rgb(240, 71, 71);
 	z-index: 1 !important;
@@ -1356,8 +1356,8 @@ span.search-answer{
 }
 .hide-overflow{
 	overflow: hidden !important;
-   /* padding: 17px 17px 17px 17px !important;
-   */
+	/* padding: 17px 17px 17px 17px !important;
+	*/
 }
 .theme-dark .search-results-wrap .search-result .search-result-message.hit, .message-group .sink-interactions.clickable{
 	border-radius: 0 !important;
@@ -2110,11 +2110,11 @@ div.card-description, div.card-details, .premium-settings .payment-method .payme
 	border-radius: 0;
 }
 .channels-Ie2l6A{
-   /*Fix padding later on*/
+	/*Fix padding later on*/
 	background-color: rgba(0, 0, 0, 0) !important;
 }
 .private-channels .search-bar{
-   /*TODO: Adjust the new search bar padding when discord finally decides to not use this element */
+	/*TODO: Adjust the new search bar padding when discord finally decides to not use this element */
 	box-shadow: none;
 	padding-bottom: 1px;
 }
@@ -2260,8 +2260,8 @@ span.discriminator{
 }
 /* Mini user pop-up fix */
 .theme-dark .headerNormal-T_seeN{
-   /*padding: 0;
-   */
+	/*padding: 0;
+	*/
 	background-color: rgba(33, 33, 33, 0.8);
 }
 .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6{
@@ -2269,7 +2269,7 @@ span.discriminator{
 }
 .headerTop-3C2Zn0{
 	padding: 10px 10px;
-   /* Old custom value 15px 10px*/
+	/* Old custom value 15px 10px*/
 }
 /* TODO: uncomment this when Canary theme is added to live version .header-3mZJcV{
 	padding: 0;
@@ -2562,7 +2562,7 @@ div.action.join {
 }
 .wrapper-O5i5-0{
 	border-radius: 0;
-   /* TODO: This overlaps with other elements in friend invite screen, double check in the future */
+	/* TODO: This overlaps with other elements in friend invite screen, double check in the future */
 	background-color: rgba(0, 0, 0, 0.0);
 }
 .form-deprecated .form-header, .form-deprecated .form-inner, .wrapper-O5i5-0 .instantInviteModal-3vhcvC .form-actions{
@@ -2791,7 +2791,7 @@ input{
 }
 /* Discord update 2018/04/21 */
 .theme-dark .searchPopout-1vUlP3{
-   /* background-color: rgba(22, 22, 22, 0.8);
+	/* background-color: rgba(22, 22, 22, 0.8);
 	*/
 	background-color: rgba(22, 22, 22, 0);
 	border-radius: 0;
@@ -3001,20 +3001,20 @@ input{
 /* Music Background color */
 .theme-dark .wrapperAudio-1jDe0Q{
 	background-color: rgba(10, 10, 10, 0.7);
-   /*border-radius: 0;
-   */
+	/*border-radius: 0;
+	*/
 	border: none;
 }
 /* Music bar thingy */
 .mediaBarWrapper-3D7r67, .mediaBarWrapper-3D7r67:after, .mediaBarWrapper-3D7r67:before{
 	background-color: rgba(88, 88, 88, 0.42);
-   /*border-radius: 0;
-   */
+	/*border-radius: 0;
+	*/
 }
 .buffer-26XPkd, .buffer-26XPkd:after, .buffer-26XPkd:before{
 	background-color: rgba(255, 255, 255, 0.5);
-   /*border-radius: 0;
-   */
+	/*border-radius: 0;
+	*/
 }
 /* .mediaBarProgress-1xaPtl, .mediaBarProgress-1xaPtl:after, .mediaBarProgress-1xaPtl:before{
 	border-radius: 0;
@@ -3027,7 +3027,7 @@ input{
 }
 .bubble-3qRl2J:before{
 	border-top-color: rgba(197, 207, 237, 1);
-   /*TODO: Copy the triangle tooltip thing from other stuff*/
+	/*TODO: Copy the triangle tooltip thing from other stuff*/
 }
 .mediaBarPreview-1jfyFs, .mediaBarPreview-1jfyFs:after, .mediaBarPreview-1jfyFs:before{
 	background-color: rgba(142, 161, 255, 0.8);
@@ -3113,8 +3113,8 @@ input{
 	margin-right: 20px;
 }
 .theme-dark .divider-3gKybi:before{
-   /*margin-top: -20px;
-   */
+	/*margin-top: -20px;
+	*/
 	background-color: hsla(0,0%,100%,.06);
 }
 /* Why does this doesn't work */
@@ -3144,8 +3144,8 @@ input{
 }
 */
 .theme-dark .divider-3gKybi:not(.red-1YQ4s7) div{
-   /*margin-top: -40px !important;
-   */
+	/*margin-top: -40px !important;
+	*/
 	background-color: rgba(0, 0, 0, 0);
 }
 .messageGroupBlocked-3wrQQX{
