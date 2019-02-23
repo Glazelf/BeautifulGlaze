@@ -448,29 +448,6 @@ div.message-group-blocked{
 .settings .settings-inner .settings-panel{
 	color: rgba(255, 255, 255, 0.9);
 }
-/* Old voice CSS element? #voice-connection .btn-group{
-	border-radius: 0;
-	border: 0;
-}
-#voice-connection{
-	border: 0;
-	background-color: rgba(0, 0, 0, 0.42);
-}
-#voice-connection .btn-info, #voice-connection .btn-disconnect{
-	background-color: rgba(0, 0, 0, 0.5);
-	border: 0;
-	box-shadow: none;
-}
-#voice-connection-popout section{
-	background-color: rgba(42, 42, 42, 0.8);
-}
-#voice-connection-popout hr{
-	border-color: rgba(255, 255, 255, 0.1);
-}
-.popout{
-	box-shadow: none;
-}
-*/
 #rtc-connection{
 	background-color: rgba(0, 0, 0, 0.42);
 	border: none;
