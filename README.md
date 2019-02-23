@@ -1,5 +1,5 @@
 # BeautifulGlaze
-BeautifulGlaze is a personal version of the Crystalline Discord theme, edited slightly for personal preferences in addition to some QOL changes. Not created with public use in mind but go ahead anyways.
+BeautifulGlaze is my personal expansion/version of the Crystalline Discord theme, at first I only planned to edit slightly for personal preferences in addition to some QOL changes but is starting to expand into an actual work, cleaning up the mess by SamuiNe and adding/changing some features. Not created with public use in mind but go ahead anyways.
 
 # Requirements:
 Having installed BeautifulDiscord
@@ -12,7 +12,7 @@ If you can't get it working properly, try this guide;
 Simply open a terminal in the folder you store this .css in and run "python -m beautifuldiscord --css BeautifulGlaze.css".
 
 # Template
-Most of the work was done by SamuiNe and his Crystalline Discord theme, I just edited it a bit for personal use.
+Credits to SamuiNe who left me a shithole of a file to clean up and go through. Has a lot of features, on the other hand, so props.
 >https://github.com/SamuiNe/Crystalline-css
 
 
