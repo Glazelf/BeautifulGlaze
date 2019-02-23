@@ -15,4 +15,5 @@ Simply open a terminal in the folder you store this .css in and run "python -m b
 Most of the work was done by SamuiNe and his Crystalline Discord theme, I just edited it a bit for personal use.
 >https://github.com/SamuiNe/Crystalline-css
 
+
 © 2019 Gideon van Steenbergen
