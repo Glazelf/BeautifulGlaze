@@ -33,6 +33,11 @@ body {
 	-webkit-transition: background 0.5s ease-in-out;
 	transition: background 0.5s ease-in-out;
 }
+/*Emote Size*/
+.emoji.jumboable{
+    height: 69px;
+	width: 69px;
+}
 /*Channel name font size*/
 .nameMutedText-3Vj4bM, .nameMutedVoice-3oxyQZ, .nameDefaultText-24KCy5, .nameDefaultVoice-3WUH7s, .nameLockedText-3pqQcL, .nameLockedVoice-26MhB1, .nameSelectedText-sp_EUw, .nameSelectedVoice-1qSph5, .nameUnreadText-DfkrI4, .nameUnreadVoice-EVo-wI {
 	font-size: 17px;
@@ -46,7 +51,6 @@ body {
 .nameDefault-2s3kbY{
 	font-size: 12px;
 }
-;
 .tab-bar.TOP{
 	border-color: rgba(255, 255, 255, 0.2);
 }
