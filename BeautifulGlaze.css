@@ -29,7 +29,7 @@ body {
 }
 .app, .connecting , .appMount-3lHmkl{
 	/* You can adjust the background brightness by reducing the fourth value of below. 0.0 for no dark background, 1.0 for full darkness.*/
-	background: rgba(0, 0, 0, 0.7);
+	background: rgba(0, 0, 0, 0.8);
 	-webkit-transition: background 0.5s ease-in-out;
 	transition: background 0.5s ease-in-out;
 }
