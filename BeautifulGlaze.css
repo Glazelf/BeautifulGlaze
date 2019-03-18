@@ -3156,13 +3156,16 @@ input{
 }
 /*If you're into circles and different colors for unread servers Might add an optional folder for these kind of stuff*/
 .theme-dark .unread-2OHH1w:before{
-	margin: -23px 0 0 55px;
-	z-index: 42;
 	background: rgb(63, 197, 255);
+	margin: -23px 0 0 50px;
+	z-index: 42;
+	width: 12px;
+	height: 12px;
 }
 .theme-dark .selected-nT-gM3:before{
-	margin: -20px 0 0 0pxm;
-	background: rgb(8, 118, 165);
+	margin: -22px 0 0 -1px;
+	background: rgb(63, 197, 255);
+	height: 45px;
 }
 .wrapper-232cHJ, .badge-3dItlm{
 	background-color: rgb(41, 84, 238);
@@ -3172,7 +3175,6 @@ input{
 	height: 0px;
 }
 .guild-1EfMGQ.selected-ML3OIq:before{
-	margin: -20px 0 0 0 !important;
 	-webkit-transition: none;
 	transition: none;
 }
