@@ -3155,7 +3155,7 @@ input{
 	color: rgba(255, 255, 255, 0.7);
 }
 /*If you're into circles and different colors for unread servers Might add an optional folder for these kind of stuff*/
-.theme-dark .guild-1EfMGQ.unread-qLkInr:before{
+.theme-dark .guild-1EfMGQ.unread-qLkInr:before .guild-1EfMGQ.unread-2OHH1w:before{
 	background-color: rgb(63, 197, 255);
 	margin: -25px 0 0 55px;
 	z-index: 42;
@@ -3644,8 +3644,8 @@ input{
 	border-color: rgba(66, 66, 66, 0.42);
 	background-color: rgba(22, 22, 22, 0.42);
 }
-/* Activity panel for Canary update feb2019 is now .activityFeed-1C0EmJ, rest is being tested*/
-.activityFeed-1C0EmJ, .content-2K7Ie9, .column-E5Tpw7{
+/*Activity panel for Canary update feb2019 is now .activityFeed-1C0EmJ, rest is being tested, now also fixes march2019 wrapper background.*/
+.activityFeed-1C0EmJ, .content-2K7Ie9, .column-E5Tpw7, .wrapper-1Rf91z{
 	color: rgba(0, 0, 0, 0);
 	background-color: rgba(0, 0, 0, 0)!important 
 }
