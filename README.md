@@ -12,8 +12,5 @@ If you can't get it working properly, try this guide;
 Simply open a terminal in the folder you store this .css in and run "python -m beautifuldiscord --css BeautifulGlaze.css".
 
 # Template
-Credits to SamuiNe who left me a shithole of a file to clean up and go through. Has a lot of features, on the other hand, so props.
+Credits to SamuiNe. Their file had a lot of features to build off of.
 >https://github.com/SamuiNe/Crystalline-css
-
-
-© 2019 Gideon van Steenbergen
